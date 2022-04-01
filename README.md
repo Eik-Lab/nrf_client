@@ -17,6 +17,8 @@ TOKEN = "INSERT_TOKEN_HERE"
 client = NrfAPI(TOKEN)
 devices = client.get_devices()
 ```
+If no token is provided, it'll look for the variable `NRF_API_TOKEN` in your enviroment variables. If it isn't there it will raise an exception. 
+
 This will give you the JSON object from the NRF API. 
 Too for example get JSON from the request into a dict, run the following:
 ```python
