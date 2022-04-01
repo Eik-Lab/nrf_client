@@ -1,0 +1,9 @@
+README.md
+setup.py
+de_wrapper.egg-info/PKG-INFO
+de_wrapper.egg-info/SOURCES.txt
+de_wrapper.egg-info/dependency_links.txt
+de_wrapper.egg-info/requires.txt
+de_wrapper.egg-info/top_level.txt
+nrf_client/__init__.py
+nrf_client/client.py
