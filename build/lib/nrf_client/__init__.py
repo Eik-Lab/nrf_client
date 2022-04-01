@@ -1,1 +1,1 @@
-from client import NrfAPI
+from .client import NrfAPI

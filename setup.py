@@ -8,7 +8,7 @@ with open("README.md", "r") as f:
     long_description = f.read()
 
 setup(
-    name="nrf_wrapper",
+    name="NRFClient",
     version="0.0.1a",
     author="Uzair Aftab",
     url="https://github.com/Eik-Lab/nrf_client",

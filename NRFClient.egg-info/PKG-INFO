@@ -1,0 +1,19 @@
+Metadata-Version: 2.1
+Name: NRFClient
+Version: 0.0.1a0
+Summary: Get started with the nrf client
+Home-page: https://github.com/Eik-Lab/nrf_client
+Download-URL: https://github.com/Eik-Lab/nrf_client
+Author: Uzair Aftab
+License: UNKNOWN
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Description-Content-Type: text/markdown
+
+# NRF Client for Python
+
+
+
+
