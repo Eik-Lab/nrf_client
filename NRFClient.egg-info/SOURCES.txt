@@ -1,9 +1,0 @@
-README.md
-setup.py
-NRFClient.egg-info/PKG-INFO
-NRFClient.egg-info/SOURCES.txt
-NRFClient.egg-info/dependency_links.txt
-NRFClient.egg-info/requires.txt
-NRFClient.egg-info/top_level.txt
-nrf_client/__init__.py
-nrf_client/client.py
